@@ -17,8 +17,6 @@ Contact Us page
 
 Installation/Setup Requirements
 Download the zip file and open the html page in the browser.
-(or)
-To view the website, copy the link https://marynganga.github.io/Restaurant-Website-Template/ paste it to your browser and load it.
 There are no known bugs.
 
 Built With
